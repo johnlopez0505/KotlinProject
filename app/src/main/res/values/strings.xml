@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">kotlin</string>
+    <string name="boton1">Iniciar Actividad 1</string>
+    <string name="boton2">Iniciar Actividad 2</string>
+    <string name="volver_principal">Volver principal</string>
+    <string name="primer_activity">Primer Activity</string>
+    <string name="second_activity">second Activity</string>
 </resources>

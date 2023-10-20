@@ -6,4 +6,18 @@
     </style>
 
     <style name="Theme.Kotlin" parent="Base.Theme.Kotlin" />
+
+    <style name="Base.Theme.john" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FDD835</item>
+        <item name="colorPrimaryDark">#E53935</item>
+        <item name="colorAccent">#039BE5</item>
+    </style>
+    <style name="Theme.john" parent="Base.Theme.john" />
+
+    <style name="Base.Theme.john1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FDD835</item>
+        <item name="colorPrimaryDark">#009688</item>
+        <item name="colorAccent">#039BE5</item>
+    </style>
+    <style name="Theme.john1" parent="Base.Theme.john1" />
 </resources>
