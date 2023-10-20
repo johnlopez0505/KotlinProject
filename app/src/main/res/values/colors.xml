@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="verde">#00897B</color>
+    <color name="colorPrimaryDark">?attr/colorPrimaryDark</color>
+    <color name="colorverdeclaro">#DE96E3BD</color>
+    <color name="amarilloclaro">#DFE6E605</color>
 </resources>
